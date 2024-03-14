@@ -1,0 +1,12 @@
+{
+  "nest_dict_get_override": {
+    ".*/productinfo/mi1c/voices/soundpackage.*": [
+      ".*/productinfo/mi1c/voices/soundpackage.*",
+      "https://raw.githubusercontent.com/insoftjla/vacuum-mop-audio/main/soundpackage.json"
+    ],
+    ".*/dreame-product/dreame.vacuum.*/voices/soundpackage.*": [
+      ".*/dreame-product/dreame.vacuum.*/voices/soundpackage.*",
+      "https://raw.githubusercontent.com/insoftjla/vacuum-mop-audio/main/soundpackage.json"
+    ]
+  }
+}
